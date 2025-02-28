@@ -36,6 +36,11 @@
             "validacao": false
         },
         {
+            "nome": "ENTRETENIMENTO",
+            "data": "31/10/2025",
+            "validacao": false
+        },
+        {
             "nome": "ARRECADAÇÃO DE FUNDOS",
             "data": "20/12/2025",
             "validacao": false
