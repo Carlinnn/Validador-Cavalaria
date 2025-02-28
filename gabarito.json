@@ -1,0 +1,44 @@
+{
+    "atividades": [
+        {
+            "nome": "TRABALHO RITUALÍSTICO",
+            "data": "31/05/2025",
+            "validacao": false
+        },
+        {
+            "nome": "TRABALHO HISTÓRICO",
+            "data": "31/07/2025",
+            "validacao": false
+        },
+        {
+            "nome": "TRABALHO FILOSÓFICO",
+            "data": "31/10/2025",
+            "validacao": false
+        },
+        {
+            "nome": "RECRUTAMENTO",
+            "data": "20/12/2025",
+            "validacao": false
+        },
+        {
+            "nome": "ELEIÇÃO",
+            "data": "20/12/2025",
+            "validacao": false
+        },
+        {
+            "nome": "INVESTIDURA",
+            "data": "20/12/2025",
+            "validacao": false
+        },
+        {
+            "nome": "CERIMÔNIA PÚBLICA",
+            "data": "20/12/2025",
+            "validacao": false
+        },
+        {
+            "nome": "ARRECADAÇÃO DE FUNDOS",
+            "data": "20/12/2025",
+            "validacao": false
+        }
+    ]
+}
